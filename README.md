@@ -32,58 +32,63 @@
 
 ## 🧰 Tech Stack
 
-### ☁️ Cloud
-- AWS EC2
-- AWS S3
-- IAM (Users, Roles, Policies)
-- VPC Basics
+**Languages & Tools**
 
-### 🐧 Linux & Servers
-- Linux (Ubuntu, Amazon Linux)
-- SSH & Key Pairs
-- Apache Web Server
+HTML | CSS | JavaScript | Python | Node.js | SQL
 
-### 🔄 DevOps Tools
-- Git & GitHub
-- Basic CI/CD concepts
 
-### 💻 Programming
-- JavaScript
-- Python
-- SQL
+**Databases**
+
+SQLite | MSSQL | SQL
+
 
 ---
 
-## 📈 Currently Learning
-- AWS Networking (VPC, Subnets, NAT, IGW)
-- Linux permissions & internals
-- EC2 deployment best practices
-- DevOps workflows & automation basics
+## 📂 Projects
+
+🔹 **Cloud Practice (AWS)**
+- Hosted static website on **S3**
+- Deployed Apache on **EC2**
+- Configured **Security Groups & Key Pairs**
+
+🔹 **Web Development**
+- Portfolio website (HTML, CSS, JS)
+- CRUD & login systems (practice projects)
+
+📌 *More cloud & DevOps projects coming soon...*
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikbhapkar&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=kartikbhapkar&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbhapkar&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikbhapkar&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbhapkar&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
-- 🔹 AWS EC2 Apache Deployment
-- 🔹 Linux Basics & File Permissions
-- 🔹 Networking Fundamentals
-- 🔹 MERN & Backend Practice Projects
+## 🚀 What I’m Learning Now
+
+- AWS re/Start curriculum
+- Linux system administration
+- Networking basics
+- DevOps mindset & workflows
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/kartikbhapkar
-- LinkedIn: (Add your LinkedIn link here)
+
+- 💼 LinkedIn: *(add link)*
+- 📧 Email: *(professional Gmail)*
+- 🌐 Portfolio: *(coming soon)*
 
 ---
 
-⭐ *Learning every day and building step by step*
+## ⚡ Fun Fact
+
+I enjoy **breaking servers, fixing them, and learning why they broke** 😄
+
+---
+
+⭐️ *Thanks for visiting my profile!*
