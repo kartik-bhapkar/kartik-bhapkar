@@ -1,15 +1,32 @@
-# Hi 👋 I'm Kartik Bhapkar
+<h1 align="center">Hi 👋, I'm Kartik Bhapkar</h1>
+<h3 align="center">Aspiring Cloud & DevOps Engineer ☁️🚀</h3>
 
-🚀 Aspiring Cloud & DevOps Engineer  
-☁️ AWS | 🐧 Linux | 🌐 Networking | 🔧 DevOps Basics  
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/DevOps-Learning-blue?style=for-the-badge&logo=devops" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- Fresher passionate about **Cloud & DevOps**
-- Hands-on experience with **AWS EC2, S3, IAM**
-- Comfortable working on **Linux servers**
-- Learning by building real-world projects
+
+- 🌱 Currently learning **AWS Cloud, Linux & DevOps fundamentals**
+- 🧠 Understanding systems from **ground level (networking, OS, servers)**
+- 🛠️ Hands-on with **EC2, S3, IAM, Apache**
+- 💻 Background in **Frontend & MERN basics**
+- 🎯 Goal: Become a **Cloud / DevOps Engineer**
+
+---
+
+## ☁️ Cloud & DevOps Skills
+
+- **AWS**: EC2, S3, IAM, VPC (Basics)
+- **Linux**: Commands, permissions, users, services
+- **Web Server**: Apache (setup & hosting)
+- **Networking**: IP, ports, CIDR, security groups
+- **Version Control**: Git & GitHub
+- **CLI Tools**: AWS CLI (Basics)
 
 ---
 
