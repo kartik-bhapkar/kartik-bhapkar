@@ -62,8 +62,8 @@ SQLite | MSSQL | SQL
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikbhapkar&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbhapkar&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kartik-bhapkar&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-bhapkar&theme=tokyonight" height="165"/>
 </p>
 
 ---
